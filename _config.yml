@@ -1,7 +1,8 @@
 title: Home
 author:
-  name: djmorris7
-  # email: dylan.morris@domain.com
+  name: "Dylan Morris"
+  email: dylan.morris@adelaide.edu.au
+date: 2022
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -16,15 +17,19 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   # - jekyll-remote-theme
+  # - jekyll-last-modified-at
 
 # Theme-specific settings
+
+last-modified-at:
+  date-format: '%b-%y'
 
 minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
   skin: dark
-  # date_format: "%b %-d, %Y"
+  date_format: "%b %-d, %Y"
 
   # Generate social links in footer.
   #
@@ -50,7 +55,7 @@ minima:
 #
 header_pages:
   - publications.md
-  - teaching.md
+  - professional_activities.md
 
 # Set to `true` to show excerpts on the homepage.
 #
