@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# About me
+## About me
 
 I'm a PhD candidate in the discipline of mathematics at the University of Adelaide. My research interests lie in the practical modelling of biological processes which makes extensive use of stochastic and probabilistic methods. My research is highly interdisciplinary and a large component of my work is the development of novel and efficient methods for fitting complex models.
 
