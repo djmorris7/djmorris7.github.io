@@ -49,8 +49,8 @@ minima:
 # order as they should show up.
 #
 header_pages:
-  - about.md
   - publications.md
+  - teaching.md
 
 # Set to `true` to show excerpts on the homepage.
 #
