@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /professional_activities/teaching/
+permalink: /about/teaching/
 ---
 
 During my MPhil and PhD candidature I have worked in a casual capacity at the University of Adelaide. During this time I worked a variety of roles across all levels of undergraduate courses. The most notable of which was working as a stand-in lecturer for Computational Bayesian Statistics III in Semester 2 of 2022.
