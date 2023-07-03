@@ -7,7 +7,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-# description: >
+# description: 
 #   PhD candidate in Applied Mathematics at the University of Adelaide. 
 
 # Build settings
@@ -58,5 +58,4 @@ header_pages:
   
 
 # Set to `true` to show excerpts on the homepage.
-#
 show_excerpts: false
