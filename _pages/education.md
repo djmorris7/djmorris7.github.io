@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-permalink: /About/education/
+permalink: /education/
 ---
 
 - Doctor of Philosophy (in progress) [2022 — current]

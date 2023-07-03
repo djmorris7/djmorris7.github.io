@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional activities
-permalink: /about/professional_activities/
+permalink: /professional_activities/
 ---
 
 ### Research assistant
