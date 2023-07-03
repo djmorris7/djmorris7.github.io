@@ -6,7 +6,9 @@ permalink: /publications/
 
 ### In preparation
 
-- Dylan Morris, John Maclean and Andrew J. Black., 2023. Computation of random time shift distributions for stochastic population models.
+### Preprints
+
+- Dylan Morris, John Maclean and Andrew J. Black., 2023. Computation of random time shift distributions for stochastic population models [https://doi.org/10.48550/arXiv.2306.17331](https://doi.org/10.48550/arXiv.2306.17331).
 
 ### Published
 
