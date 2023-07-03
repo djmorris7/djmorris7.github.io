@@ -43,4 +43,4 @@ I've been a marker for:
 
 ### Workshops and outreach
 
-In 2022 I helped to develop a **Data Science Coffee Club** at the University of Adelaide for post-graduate students in Mathematics. We developed a series of sessions for giving a crash course into the following LaTeX, Git and Github, code practices, debugging, plotting, note-taking practices and more. In 2023 we refined this session and rebranded as **HDR Skills Workshop**. This is a more streamlined version of the sessions with an emphasis on encouraging collaboration and development of incoming students. 
+In 2022 I helped to develop a **Data Science Coffee Club** at the University of Adelaide for post-graduate students in Mathematics. We developed a series of sessions for giving a crash course into the following LaTeX, Git and Github, code practices, debugging, plotting, note-taking practices and more. In 2023 we refined this session and rebranded as **HDR Skills Workshop**. This is a more streamlined version of the sessions with an emphasis on encouraging collaboration and development of incoming students.
