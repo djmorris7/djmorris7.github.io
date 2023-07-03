@@ -1,8 +1,9 @@
 title: Home
 author:
-  name: "Dylan Morris"
-  email: dylan.morris@adelaide.edu.au
-date: 2022
+  name: "© 2022-2023 Dylan Morris"
+  # email: dylan.morris@adelaide.edu.au
+# last_updated: true
+# date: 2022-2023
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -21,9 +22,6 @@ plugins:
 
 # Theme-specific settings
 
-last-modified-at:
-  date-format: '%b-%y'
-
 minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
@@ -39,6 +37,7 @@ minima:
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
     - { platform: github,         user_url: "https://github.com/djmorris7" }
+    # - { platform: orcid,         user_url: "https://orcid.org/0000-0001-7890-1501" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
