@@ -53,9 +53,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 header_pages:
-  - _pages/publications.md
-  - _pages/professional_activities.md
-  - _pages/education.md
+  - publications.md
+  - professional_activities.md
+  - education.md
   
 
 # Set to `true` to show excerpts on the homepage.
