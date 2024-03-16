@@ -17,5 +17,6 @@ I completed my M.Phil in 2021 with my thesis titled [Inference on historical Ebo
 ## Bachelor of Mathematical Sciences (completed) [2016 — 2018]
 
 Majors:
-    - Applied Mathematics
-    - Statistics
+
+- Applied Mathematics
+- Statistics
