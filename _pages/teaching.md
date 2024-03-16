@@ -14,24 +14,24 @@ Currently I am tutoring for Probability and Statistics II and supervising 2 grou
 
 In the past I've tutored for the following courses:
 
-- Statistical practice I
+- Master of Data Science (Research/Industry Project A and B)
+- Computational Bayesian Statistics III
 - Probability and Statistics II
 - Statistics and Numerical methods for Engineers II
-- Computational Bayesian Statistics III
-- Master of Data Science (Research/Industry Project A and B)
+- Statistical practice I
 - Mathematics IA, IB and IM
 
 I've been a marker for:
 
-- Statistical practice I
-- Statistics and Numerical methods for Engineers II
 - Computational Bayesian Statistics III
-- Probability and Statistics II
-- Differential Equations for Engineers II
 - Master of Data Science (Research/Industry Project A and B)
-- Mathematics IA, IB and IM
-- Probability and Statistics II
 - Applied Probability III
 - Random Processes III
+- Statistics and Numerical methods for Engineers II
+- Probability and Statistics II
+- Probability and Statistics II
 - Statistical modelling and inference II
+- Differential Equations for Engineers II
+- Mathematics IA, IB and IM
+- Statistical practice I
 - Statistical Analysis and Modelling I
