@@ -1,10 +1,10 @@
 main:
   - title: "Publications"
     url: /_pages/publications/
-  - title: "Education"
-    url: /_pages/education
-  - title: "Teaching"
-    url: /_pages/teaching/
   - title: "Professional Work"
     url: /_pages/professional_work/
+  - title: "Teaching"
+    url: /_pages/teaching/
+  - title: "Education"
+    url: /_pages/education
   

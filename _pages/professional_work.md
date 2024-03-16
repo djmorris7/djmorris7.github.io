@@ -4,6 +4,8 @@ layout: single
 classes: wide
 ---
 
+Here you can find the professional work I have done. This page focuses on projects I've been a part of that were not directly related to my MPhil or PhD projects.
+
 ## Research assistant
 
 Over most of 2021 and into 2022 I worked as a research assistant on a couple projects relating to COVID-19.

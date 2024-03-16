@@ -4,8 +4,6 @@ layout: single
 classes: wide
 ---
 
-<!-- # Teaching -->
-
 During my MPhil and PhD candidature I have worked in a casual capacity at the University of Adelaide. During this time I worked a variety of roles across all levels of undergraduate courses. The most notable of which was working as a stand-in lecturer for Computational Bayesian Statistics III in semester 2 of 2022 and as its course coordinator in semester 2 of 2023.
 
 ## Current

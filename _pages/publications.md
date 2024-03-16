@@ -4,6 +4,8 @@ layout: single
 classes: wide
 ---
 
+This page lists publications and preprints arising from my research.
+
 ## In preparation
 
 ## Preprints

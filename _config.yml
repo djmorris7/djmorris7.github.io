@@ -20,7 +20,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dylan Morris"
+title                    : "Home"
 # title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dylan Morris"
@@ -117,22 +117,22 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "dylan.morris@adleaide.edu.au"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://djmorris7.github.io"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/djmorris7"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://djmorris7.github.io"
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/djmorris7"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/djmorris7"
 
 
 # Reading Files

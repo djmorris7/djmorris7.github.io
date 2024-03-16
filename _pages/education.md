@@ -4,6 +4,8 @@ layout: single
 classes: wide
 ---
 
+Here's my education history and some details of my research projects throughout my MPhil and PhD candidatures.
+
 ## Doctor of Philosophy (in progress) [2022 — current]
 
 ## Master of Philosophy (completed) [2019 — 2021]
@@ -14,6 +16,6 @@ I completed my M.Phil in 2021 with my thesis titled [Inference on historical Ebo
 
 ## Bachelor of Mathematical Sciences (completed) [2016 — 2018]
 
-Majors: 
+Majors:
     - Applied Mathematics
     - Statistics

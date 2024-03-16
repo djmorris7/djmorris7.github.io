@@ -1,10 +1,8 @@
 ---
 layout: single
 classes: wide
-title: Dylan Morris
+title: About me
 ---
-
-## About me
 
 I'm a PhD candidate in the discipline of mathematics at the University of Adelaide. My research interests lie in the modelling of biological processes, making extensive use of stochastic and probabilistic methods. My research is highly interdisciplinary and a large component of my work looks into the development of efficient methods for fitting complex models.
 
