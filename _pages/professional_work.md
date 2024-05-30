@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-Here you can find the professional work I have done. This page focuses on projects I've been a part of that were not directly related to my MPhil or PhD projects.
+Here you can find the professional work I have done. This page focuses on projects I've been a part of that were not directly related to my MPhil or PhD projects. Teaching related work can be found [here](/teaching/).
 
 ## Research assistant
 

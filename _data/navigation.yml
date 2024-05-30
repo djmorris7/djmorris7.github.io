@@ -7,4 +7,6 @@ main:
     url: /_pages/teaching/
   - title: "Education"
     url: /_pages/education
+  # - title: "Blog"
+  #   url: /_pages/blog/
   
