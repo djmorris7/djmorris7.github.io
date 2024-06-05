@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-Hi, I'm Dylan, a second year PhD candidate in the discipline of mathematics at the University of Adelaide. I'm doing my PhD under the excellent supervision of my principal supervisor [Dr Andrew Black](https://researchers.adelaide.edu.au/profile/andrew.black) and co-supervisors [Dr John Maclean](https://researchers.adelaide.edu.au/profile/john.maclean) and [Lauren Kennedy](https://researchers.adelaide.edu.au/profile/lauren.a.kennedy).
+Hi, I'm Dylan, a second year PhD candidate in the discipline of mathematics at the University of Adelaide. I'm doing my PhD under the excellent supervision of my principal supervisor [Dr Andrew Black](https://researchers.adelaide.edu.au/profile/andrew.black) and co-supervisors [Dr John Maclean](https://researchers.adelaide.edu.au/profile/john.maclean) and [Dr Lauren Kennedy](https://researchers.adelaide.edu.au/profile/lauren.a.kennedy).
 
 My research interests lie in the modelling of biological processes, making extensive use of stochastic and probabilistic methods. My research draws on a number of methods from across applied mathematics, statistics, and scientific programming. A major focus of my work is in the development of efficient mathematical and computational methods for fitting complex models, easing the use of such models (reducing the reliance on super computers and programming languages like C++ and Rust).
 
