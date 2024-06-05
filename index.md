@@ -10,4 +10,4 @@ My research interests lie in the modelling of biological processes, making exten
 
 Over my postgraduate degrees I've worn many different hats and done a variety of things, the highlights of which are provided in the [Professional Activities](/_pages/professional_activities/) tab. Publications arising from my research are available over at [Publications](/_pages/publications/). I've also been involved in a decent amount of teaching over a wide variety of courses and you can also see these (both past and present) over at [Teaching](/_pages/teaching/). Open source code for projects, bits, and pieces are available over at my [GitHub](https://github.com/djmorris7).
 
-If you're interested in my work or have any questions, please don't hesitate to get in touch with me, I'm always happy to chat about my work and see what others are up to.
+If you're interested in my work or have any questions, please don't hesitate to get in touch with me, I'm always happy to chat about research and see what others are up to.
