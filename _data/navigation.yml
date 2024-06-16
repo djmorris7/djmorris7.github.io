@@ -1,12 +1,12 @@
 main:
   - title: "Publications"
-    url: /Pages/publications/
+    url: /_pages/publications/
   - title: "Professional Work"
-    url: /Pages/professional_work/
+    url: /_pages/professional_work/
   - title: "Teaching"
-    url: /Pages/teaching/
+    url: /_pages/teaching/
   - title: "Education"
-    url: /Pages/education
+    url: /_pages/education
   # - title: "Blog"
   #   url: /_pages/blog/
   
