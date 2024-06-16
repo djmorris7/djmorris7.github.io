@@ -36,7 +36,6 @@ Coming up in Semester 2 of 2024 I will be course coordinator for [Random process
 - Random Processes III
 - Statistics and Numerical methods for Engineers II
 - Probability and Statistics II
-- Probability and Statistics II
 - Statistical modelling and inference II
 - Differential Equations for Engineers II
 - Mathematics IA, IB and IM
