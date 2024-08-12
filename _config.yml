@@ -126,6 +126,9 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://djmorris7.github.io"
+    - label: "ORCID ID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-7890-1501"
 
 # Site Footer
 footer:
