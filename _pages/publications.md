@@ -8,6 +8,8 @@ This page lists publications and preprints arising from my research.
 
 ## In preparation / preprints
 
+- Dylan Morris, Lauren Kennedy and Andrew J. Black., 2024. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets.
+
 ## Published
 
 - Dylan Morris, John Maclean and Andrew J. Black, 2024. Computation of random time-shift
