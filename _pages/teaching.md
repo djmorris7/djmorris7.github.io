@@ -4,11 +4,11 @@ layout: single
 classes: wide
 ---
 
-During my MPhil and PhD candidature I have worked in a casual capacity at the University of Adelaide. I have worked in many different capacities over my early teaching career with a variety of roles across all levels of undergraduate courses. The most notable of my experiences have been working as a stand-in lecturer for Computational Bayesian Statistics III in semester 2 of 2022 and as its course coordinator in semester 2 of 2023, doing the same for Probability and Statistics II in semester 1 of 2024, and being the course coordinator for Random processes III in semester 2 of 2024. 
+During my MPhil and PhD candidature at the University of Adelaide, I have worked in various casual teaching roles, gaining experience across all levels of undergraduate courses. Notably, I served as a stand-in lecturer for Computational Bayesian Statistics III in Semester 2 of 2022 and later as its course coordinator in Semester 2 of 2023. I held similar roles for Probability and Statistics II in Semester 1 of 2024 and as course coordinator for Random Processes III in Semester 2 of 2024.
 
 ## Current teaching
-
-Currently I am the course coordinator for [Random processes III](https://www.adelaide.edu.au/course-outlines/101488/1/sem-2/).
+ 
+In Semester 1 of 2025 I will be the course coordinator for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/).
 
 ## Experience
 
