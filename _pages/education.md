@@ -4,14 +4,15 @@ layout: single
 classes: wide
 ---
 
-Here's my education history and some details of my research projects throughout my MPhil and PhD candidatures.
-
 ## Doctor of Philosophy (in progress) [2022 — current]
 
-My PhD is the manifestation of my research interests and focuses on the modelling of what happens once you get infected with a virus. These so-called within-host processes seek to capture the dynamics of infectious agents that have entered into ones system. In comparison to between-host (or transmission) models, our understanding of fitting and working with within-host dynamics is much simpler. This is a result in part due to the massive number of cells being modelled—often resulting in simpler models being used as stochastic models require a large amount of compute. As such the models most used, are often simple piece-wise linear models which hides away some of the biological processes at play. The first paper from my PhD looks at how we can incorporate stochasticity into a large population model without the need for stochastic simulations.
+My PhD focuses on the modelling of what happens once you get infected with a virus and how this translates to outbreak dynamics. Within-host models seek to capture the dynamics of infectious agents that have entered into an individual's body (my interest is in respiratory illnesses). In comparison to between-host (or transmission) models, our understanding of fitting and working with within-host dynamics is much simpler. This is a result in part due to the massive number of cells being modelled—often resulting in simpler models being used as stochastic models require a large amount of compute. As such the models most used, are often simple piece-wise linear models which hides away some of the biological processes at play. The first paper from my PhD looks at how we can incorporate stochasticity into a large population model without the need for stochastic simulations. This improves the computational efficiency of the model and allows for us to capture the biological properties of the within-host dynamics through systems of ODEs.
+
+The current stage of my PhD is seeking to use this novel approach to modelling the stochastic within-host dynamics to inform the transmission dynamics of respiratory illnesses. This forms a bridge between the within-host and between-host models and allows for a more complete understanding of the dynamics of respiratory illnesses and uses ideas from the generation-time models.
 
 Papers arising from my PhD:
 
+- Dylan Morris, Lauren Kennedy and Andrew J. Black., 2024. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets. (In preparation).
 - Dylan Morris, John Maclean and Andrew J. Black, 2024. Computation of random time-shift
 distributions for stochastic population models. Journal of Mathematical Biology, 89, 33, [10.1007/s00285-024-02132-6](https://link.springer.com/article/10.1007/s00285-024-02132-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240812&utm_content=10.1007%2Fs00285-024-02132-6).
 
