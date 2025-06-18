@@ -12,7 +12,7 @@ The current stage of my PhD is seeking to use this novel approach to modelling t
 
 Papers arising from my PhD:
 
-- Dylan Morris, Lauren Kennedy and Andrew J. Black., 2024. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets. (In preparation).
+- Dylan J. Morris, Lauren Kennedy and Andrew J. Black., 2024. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets. (In preparation).
 - Dylan Morris, John Maclean and Andrew J. Black, 2024. Computation of random time-shift
 distributions for stochastic population models. Journal of Mathematical Biology, 89, 33, [10.1007/s00285-024-02132-6](https://link.springer.com/article/10.1007/s00285-024-02132-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240812&utm_content=10.1007%2Fs00285-024-02132-6).
 

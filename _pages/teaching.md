@@ -8,14 +8,13 @@ During my MPhil and PhD candidatures at the University of Adelaide, I have gaine
 
 ## Current teaching
 
-In Semester 1 of 2025 I am the course coordinator for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/).
-
 In Semester 2 of 2025 I will be the course coordinator for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2025/).
 
 ## Experience
 
 ### Course coordination / supervision
 
+- Course coordinator for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2025, Semester 1).
 - Course coordinator for [Random processes III](https://www.adelaide.edu.au/course-outlines/101488/1/sem-2/) (2024, Semester 2).
 - Course coordinator (in second half of semester) for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2024, Semester 1).
 - Course coordinator (in second half of semester) for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2023/) (2022, 2023, Semester 2).
