@@ -6,9 +6,9 @@ classes: wide
 
 This page lists publications and preprints arising from my research.
 
-## In preparation / preprints
+## Submitted or in preparation
 
-- Dylan J. Morris, Lauren Kennedy and Andrew J. Black., 2024. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets.
+- Dylan J. Morris, Lauren Kennedy and Andrew J. Black., 2024. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets. [arXiv:2507.02884](https://arxiv.org/abs/2507.02884)
 
 ## Published
 
