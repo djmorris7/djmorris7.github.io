@@ -4,21 +4,25 @@ layout: single
 classes: wide
 ---
 
-During my MPhil and PhD candidatures at the University of Adelaide, I have gained extensive experience in casual teaching roles across all levels of undergraduate courses. Notably, I have undertaken course coordination and stand-in course coordination responsibilities for several courses. Additionally, I have also supervised several cohorts of students in the Master of Data Science Industry Research program.
-
-## Current teaching
-
-In Semester 2 of 2025 I will be the course coordinator for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2025/).
+During my MPhil and PhD candidatures at the University of Adelaide, I have gained extensive experience in teaching roles across all levels of undergraduate courses. Notably, I have undertaken course coordination and stand-in course coordination responsibilities for several courses. Additionally, I have also supervised several cohorts of students in the Master of Data Science Industry Research program.
 
 ## Experience
 
 ### Course coordination / supervision
 
+- Course coordinator for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2025/) (2025, Semester 2).
 - Course coordinator for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2025, Semester 1).
 - Course coordinator for [Random processes III](https://www.adelaide.edu.au/course-outlines/101488/1/sem-2/) (2024, Semester 2).
 - Course coordinator (in second half of semester) for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2024, Semester 1).
 - Course coordinator (in second half of semester) for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2023/) (2022, 2023, Semester 2).
 - Supervising students for the [Master of Data Science (Research/Industry Project A and B)](https://www.adelaide.edu.au/course-outlines/111081/1/tri-2/) (2023, 2024).
+
+### Course development
+
+In 2025 I have been involved in some course development for a range of courses at the Adelaide University, including:
+
+- Developing notes for supporting students in Probability pathways, including a set of key probability related proof skills, multivariable calculus introduction / refresher, and important sequences and series (Jan 2025 — June 2025).
+- I've also been involved with developing content for Bayesian Statistical Practice, including lecture materials, practical excercises, and some other supporting materials (Nov 2025 — Dec 2025).
 
 ### Tutoring
 
