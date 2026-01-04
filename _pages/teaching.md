@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-During my MPhil and PhD candidatures at the University of Adelaide, I have gained extensive experience in teaching roles across all levels of undergraduate courses. Notably, I have undertaken course coordination and stand-in course coordination responsibilities for several courses. Additionally, I have also supervised several cohorts of students in the Master of Data Science Industry Research program.
+During my MPhil and PhD candidatures at the University of Adelaide, I have gained extensive experience in teaching roles across all levels of undergraduate courses. Notably, I have undertaken course coordination and stand-in course coordination responsibilities for multiple courses. Additionally, I have also supervised several cohorts of students in the Master of Data Science Industry Research program.
 
 ## Experience
 
@@ -19,10 +19,10 @@ During my MPhil and PhD candidatures at the University of Adelaide, I have gaine
 
 ### Course development
 
-In 2025 I have been involved in some course development for a range of courses at the Adelaide University, including:
+In 2025 I was involved in course development for courses at the Adelaide University which opened in 2026, including:
 
 - Developing notes for supporting students in Probability pathways, including a set of key probability related proof skills, multivariable calculus introduction / refresher, and important sequences and series (Jan 2025 — June 2025).
-- I've also been involved with developing content for Bayesian Statistical Practice, including lecture materials, practical excercises, and some other supporting materials (Nov 2025 — Dec 2025).
+- I also developed content for Bayesian Statistical Practice, including lecture materials, practical exercises, case studies and other supporting materials (Nov 2025 — Dec 2025).
 
 ### Tutoring
 
