@@ -6,6 +6,8 @@ classes: wide
 
 ## Doctor of Philosophy (in progress) [2022 — current]
 
+### Adelaide University (formerly The University of Adelaide)
+
 My PhD focuses on the modelling of what happens once you get infected with a virus and how this translates to outbreak dynamics. Within-host models seek to capture the dynamics of infectious agents that have entered into an individual's body (my interest is in respiratory illnesses). In comparison to between-host (or transmission) models, our understanding of fitting and working with within-host dynamics is much simpler. This is a result in part due to the massive number of cells being modelled—often resulting in simpler models being used as stochastic models require a large amount of compute. As such the models most used, are often simple piece-wise linear models which hides away some of the biological processes at play. The first paper from my PhD looks at how we can incorporate stochasticity into a large population model without the need for stochastic simulations. This improves the computational efficiency of the model and allows for us to capture the biological properties of the within-host dynamics through systems of ODEs.
 
 The current stage of my PhD is seeking to use this novel approach to modelling the stochastic within-host dynamics to inform the transmission dynamics of respiratory illnesses. This forms a bridge between the within-host and between-host models and allows for a more complete understanding of the dynamics of respiratory illnesses and uses ideas from the generation-time models.
@@ -18,6 +20,8 @@ distributions for stochastic population models. Journal of Mathematical Biology,
 
 ## Master of Philosophy (completed) [2019 — 2021]
 
+### The University of Adelaide
+
 I completed my M.Phil in 2021 with my thesis:
 
 - Dylan J. Morris. Inference on historical Ebola outbreaks using hierarchical models: a particle filtering approach (2021). MPhil Thesis. [hdl.handle.net/2440/132642](https://hdl.handle.net/2440/132642)
@@ -27,6 +31,8 @@ This work looked at how we can model outbreaks of Ebola efficiently by using imp
 ---
 
 ## Bachelor of Mathematical Sciences (completed) [2016 — 2018]
+
+### The University of Adelaide
 
 Majors:
 

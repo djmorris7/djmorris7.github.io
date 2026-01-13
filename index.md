@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-Hi, I'm Dylan, and I'm in the final year of my PhD in Mathematics at the University of Adelaide. I'm fortunate to be supervised by [Dr Andrew Black](https://researchers.adelaide.edu.au/profile/andrew.black) (principal) and [Dr Lauren Kennedy](https://researchers.adelaide.edu.au/profile/lauren.a.kennedy).
+Hi, I'm Dylan, and I'm in the final year of my PhD in Mathematics at the Adelaide University (formerly The University of Adelaide). I'm fortunate to be supervised by [Dr Andrew Black](https://researchers.adelaide.edu.au/profile/andrew.black) (principal) and [Dr Lauren Kennedy](https://researchers.adelaide.edu.au/profile/lauren.a.kennedy).
 
 My research focuses on modelling biological processes using stochastic and probabilistic methods. It integrates techniques from applied mathematics, statistics, and scientific programming. A key aspect of my work involves developing efficient mathematical and computational methods for fitting complex within-host and multi-scale epidemic models, with an emphasis on accessibility—reducing the reliance on supercomputers and low-level programming languages. I'm currently working on developing methods for merging within-host and between-host models of respiratory infectious diseases (Covid-19 and Influenzas), while accounting for stochasticity in each process. 
 
