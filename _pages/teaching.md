@@ -4,11 +4,11 @@ layout: single
 classes: wide
 ---
 
-During my MPhil and PhD candidatures at the University of Adelaide, I have gained extensive experience in teaching roles across all levels of undergraduate courses. Notably, I have undertaken course coordination and stand-in course coordination responsibilities for multiple courses. Additionally, I have also supervised several cohorts of students in the Master of Data Science Industry Research program.
+During my post-graduate candidature I have gained extensive experience in teaching roles across all levels of undergraduate courses. Notably, I have undertaken course coordination and stand-in course coordination responsibilities for multiple courses. Additionally, I have also supervised several cohorts of students in the Master of Data Science Industry Research program.
 
 ## Experience
 
-### Course coordination / supervision
+### Course coordination and supervision
 
 - Course coordinator for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2025/) (2025, Semester 2).
 - Course coordinator for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2025, Semester 1).

@@ -4,13 +4,14 @@ layout: single
 classes: wide
 ---
 
-This page lists publications and preprints arising from my research.
+This page lists publications arising from my research.
 
 ## Submitted or in preparation
 
 - Robert Moss, Ruarai J. Tobin, Mitchell O'Hara-Wild, Adeshina I. Adekunle, Dennis Liu, Tobin South, Dylan J. Morris, Gerard E. Ryan, Tianxiao Hao, Aarathy Babu, Katharine L. Senior, James G. Wood, Nick Golding, Joshua V. Ross, Rob J. Hyndman, David J. Price, James M. McCaw, Freya M. Shearer., 2025. Ensemble Forecasts of COVID-19 Activity to Support Australia's Pandemic Response: 2020--22. [medRxiv:10.1101/2025.09.10.25335544](https://www.medrxiv.org/content/10.1101/2025.09.10.25335544v1)
+- 
 
-## Published
+## Published (refereed journal articles)
 
 - Dylan J. Morris, Lauren Kennedy, Andrew J. Black, 2025. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets. PLoS Computational Biology 20(12): e1013775. [10.1371/journal.pcbi.1013775](https://doi.org/10.1371/journal.pcbi.1013775).
 - Dylan Morris, John Maclean and Andrew J. Black, 2024. Computation of random time-shift
