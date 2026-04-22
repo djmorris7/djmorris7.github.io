@@ -8,7 +8,7 @@ Here you can find the professional work I have done. This page focuses on projec
 
 ## Research assistant
 
-Over most of 2021 and into 2022 I worked as a research assistant on a couple projects relating to COVID-19. 
+Over most of 2021 and into 2022 I worked as a research assistant on a couple projects relating to COVID-19.
 
 - COVID-19 federal forecasting
   - Running weekly forecasts for COVID-19 cases, maintaining, and improving the codebase, and implementing novel developments for inclusion of vaccination data and handling of co-circulating strains.
