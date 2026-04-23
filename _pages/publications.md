@@ -8,6 +8,8 @@ This page lists publications arising from my research.
 
 ## Submitted or in preparation
 
+- Dylan J. Morris, Lauren Kennedy, Andrew J. Black, 2025. Bayesian inference for disease transmission models informed by viral dynamics. arXiv: [arXiv:2604.20069v1](https://doi.org/10.48550/arXiv.2604.20069).
+
 ## Published (refereed journal articles)
 
 - Robert Moss, Ruarai J. Tobin, Mitchell O'Hara-Wild, Adeshina I. Adekunle, Dennis Liu, Tobin South, Dylan J. Morris, Gerard E. Ryan, Tianxiao Hao, Aarathy Babu, Katharine L. Senior, James G. Wood, Nick Golding, Joshua V. Ross, Rob J. Hyndman, David J. Price, James M. McCaw, Freya M. Shearer. Ensemble Forecasts of COVID-19 Activity to Support Australia's Pandemic Response: 2020--22. PLoS Computational Biology 22(4): e1014199. [doi.org/10.1371/journal.pcbi.1014199](https://doi.org/10.1371/journal.pcbi.1014199)
