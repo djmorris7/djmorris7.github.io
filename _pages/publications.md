@@ -8,7 +8,7 @@ This page lists publications arising from my research.
 
 ## Submitted or in preparation
 
-- Dylan J. Morris, Lauren Kennedy, Andrew J. Black, 2025. Bayesian inference for disease transmission models informed by viral dynamics. arXiv: [arXiv:2604.20069v1](https://doi.org/10.48550/arXiv.2604.20069).
+- Dylan J. Morris, Lauren Kennedy, Andrew J. Black, 2025. Bayesian inference for disease transmission models informed by viral dynamics. arXiv: [arXiv:2604.20069v1](https://arxiv.org/abs/2604.20069).
 
 ## Published (refereed journal articles)
 
