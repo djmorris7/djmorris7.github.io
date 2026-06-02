@@ -4,17 +4,24 @@ layout: single
 classes: wide
 ---
 
-During my post-graduate candidature I have gained extensive experience in teaching roles across all levels of undergraduate courses. Notably, I have undertaken course coordination and stand-in course coordination responsibilities for multiple courses. Additionally, I have also supervised several cohorts of students in the Master of Data Science Industry Research program.
-
 ## Experience
+
+### Lecturer
+
+I am a lecturer in the School of Mathematical Sciences at Adelaide University.
+
+In semester 2 of 2026 I will be coordinating:
+
+- [Computational Statistics](https://adelaide.edu.au/study/courses/stat-3006/)
+- [Multi-Source Data Analytics](https://adelaide.edu.au/study/courses/comp-5030/)
 
 ### Course coordination and supervision
 
-- Course coordinator for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2025/) (2025, Semester 2).
-- Course coordinator for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2025, Semester 1).
-- Course coordinator for [Random processes III](https://www.adelaide.edu.au/course-outlines/101488/1/sem-2/) (2024, Semester 2).
-- Course coordinator (in second half of semester) for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2024, Semester 1).
-- Course coordinator (in second half of semester) for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2023/) (2022, 2023, Semester 2).
+- Course coordinator for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2025/) (2025).
+- Course coordinator for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2025).
+- Course coordinator for [Random processes III](https://www.adelaide.edu.au/course-outlines/101488/1/sem-2/) (2024).
+- Course coordinator (in second half of semester) for [Probability and Statistics II](https://www.adelaide.edu.au/course-outlines/104837/1/sem-1/) (2024).
+- Course coordinator (in second half of semester) for [Computational Bayesian Statistics III](https://www.adelaide.edu.au/course-outlines/110034/1/sem-2/2023/) (2022, 2023).
 - Supervising students for the [Master of Data Science (Research/Industry Project A and B)](https://www.adelaide.edu.au/course-outlines/111081/1/tri-2/) (2023, 2024).
 
 ### Course development
