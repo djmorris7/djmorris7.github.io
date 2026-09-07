@@ -10,7 +10,7 @@ classes: wide
 
 I am a lecturer in the School of Mathematical Sciences at Adelaide University.
 
-In semester 2 of 2026 I will be coordinating:
+In semester 2 of 2026 I am the course coordinator for:
 
 - [Computational Statistics](https://adelaide.edu.au/study/courses/stat-3006/)
 - [Multi-Source Data Analytics](https://adelaide.edu.au/study/courses/comp-5030/)

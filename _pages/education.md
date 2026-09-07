@@ -4,11 +4,17 @@ layout: single
 classes: wide
 ---
 
-## Doctor of Philosophy (in progress) [2022 — current]
+## Doctor of Philosophy (in progress) [2022 — 2026]
 
 ### Adelaide University (formerly The University of Adelaide)
 
-My PhD looked at modelling what happens once a virus enters a host and how this translates to outbreak dynamics. Within-host models seek to explain the dynamics of infectious agents inside an individual's body, while between-host models explore transmission between individuals. Compared to between-host modelling, our understanding of within-host dynamics and methods for working with them is considerably less developed. This is in part due to the massive number of cells involved as stochastic simulations at this scale are computationally expensive, so simpler deterministic approximations are typically used instead. These tend to be piecewise linear models that obscure much of the underlying biology. The first paper from my PhD addresses this by incorporating stochasticity into a large population model without requiring full stochastic simulations. This improves computational efficiency while preserving the biological realism of within-host dynamics through a system of ODEs.
+My PhD looked at modelling what happens once a virus enters a host and how this translates to outbreak dynamics. Within-host models seek to explain the dynamics of infectious agents inside an individual's body, while between-host models explore transmission between individuals. Compared to between-host modelling, our understanding of within-host dynamics and methods for working with them is considerably less developed. This is in part due to the massive number of cells involved as stochastic simulations at this scale are computationally expensive, so simpler deterministic approximations are typically used instead. These tend to be piecewise linear models that obscure much of the underlying biology.
+
+The first paper from my PhD addresses the challenge of using stochastic within-host models by developing methods that exploit the natural structure of these models, incorporating stochasticity into a large population model without requiring full stochastic simulations. This improves computational efficiency while preserving the biological realism of within-host dynamics through a system of ODEs.
+The second and third papers from my PhD leverage this framework to develop inference frameworks for estimating model parameters from observed data in stochastic within-host and multi-scale models.
+The first paper builds an efficient approximation to the likelihood for stochastic within-host models, enabling a method that captures key macroscopic stochastic dynamics accurately and allows for computationally feasible parameter estimation.
+In the final paper, we extend this framework to multi-scale models, utilising a cut-inference framework, to use stochastic within-host dynamics to inform between-host transmission dynamics in household settings.
+We embed the method in such household settings as they provide the natural context for collecting detailed individual level data (symptoms, viral load measurements, etc.), which is crucial for accurately linking within-host dynamics to between-host transmission events.
 
 Papers arising from my PhD:
 
