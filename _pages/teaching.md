@@ -4,8 +4,6 @@ layout: single
 classes: wide
 ---
 
-## Experience
-
 ### Lecturer
 
 I am a lecturer in the School of Mathematical Sciences at Adelaide University.

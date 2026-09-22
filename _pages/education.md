@@ -4,7 +4,7 @@ layout: single
 classes: wide
 ---
 
-## Doctor of Philosophy (in progress) [2022 — 2026]
+## Doctor of Philosophy (completed) [2022 — 2026]
 
 ### Adelaide University (formerly The University of Adelaide)
 
