@@ -4,14 +4,14 @@ layout: single
 classes: wide
 ---
 
-### Lecturer
-
-I am a lecturer in the School of Mathematical Sciences at Adelaide University.
+## Lecturer
 
 In semester 2 of 2026 I am the course coordinator for:
 
 - [Computational Statistics](https://adelaide.edu.au/study/courses/stat-3006/)
 - [Multi-Source Data Analytics](https://adelaide.edu.au/study/courses/comp-5030/)
+
+## Past experience
 
 ### Course coordination and supervision
 
