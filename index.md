@@ -1,5 +1,5 @@
 ---
-title: Dr Dylan J. Morris
+title: Dylan J. Morris
 layout: single
 classes: wide
 ---

@@ -16,15 +16,17 @@
 
 # Use this if using the github pages setup
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
 # title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dylan Morris"
-description              : "My personal website for all things relating to my PhD."
+name                     : "Dylan J. Morris"
+description              : "My personal website."
 url                      : "https://djmorris7.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 # repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +110,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dylan J. Morris"
+  name             : "Dr Dylan J. Morris"
   avatar           : "SARS-CoV-2_without_background.png"
   bio              : "A lecturer in the school of Mathematical Sciences at Adelaide University."
   # location         : "Somewhere"

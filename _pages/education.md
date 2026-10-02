@@ -23,7 +23,7 @@ distributions for stochastic population models. Journal of Mathematical Biology,
 
 ## Master of Philosophy in Applied Mathematics
 
-**The University of Adelaide** · *2019 — 2021*
+**The University of Adelaide** · *2019–2021*
 
 I completed my M.Phil in 2021 with my thesis:
 
@@ -33,7 +33,7 @@ This work looked at how we can model outbreaks of Ebola efficiently by using imp
 
 ## Bachelor of Mathematical Sciences
 
-**The University of Adelaide** · *2016 — 2018*
+**The University of Adelaide** · *2016–2018*
 
 Majors:
 
