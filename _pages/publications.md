@@ -8,12 +8,10 @@ This page lists publications arising from my research.
 
 ## Preprints and submitted manuscripts
 
-- Dylan J. Morris, Lauren Kennedy, Andrew J. Black, 2026. Bayesian inference for disease transmission models informed by viral dynamics. arXiv: [arXiv:2604.20069v1](https://arxiv.org/abs/2604.20069).
-
 ## Published (refereed journal articles)
 
+- Dylan J. Morris, Lauren Kennedy and Andrew J. Black, 2026. Bayesian inference for household transmission models informed by viral dynamics. Epidemics. [https://doi.org/10.1016/j.epidem.2026.100953](https://doi.org/10.1016/j.epidem.2026.100953).
 - Robert Moss, Ruarai J. Tobin, Mitchell O'Hara-Wild, et al., 2026. Ensemble Forecasts of COVID-19 Activity to Support Australia's Pandemic Response: 2020--22. PLoS Computational Biology 22(4): e1014199. [doi.org/10.1371/journal.pcbi.1014199](https://doi.org/10.1371/journal.pcbi.1014199)
 - Dylan J. Morris, Lauren Kennedy, Andrew J. Black, 2025. Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets. PLoS Computational Biology 21(12): e1013775. [10.1371/journal.pcbi.1013775](https://doi.org/10.1371/journal.pcbi.1013775).
-- Dylan Morris, John Maclean and Andrew J. Black, 2024. Computation of random time-shift
-distributions for stochastic population models. Journal of Mathematical Biology, 89, 33, [10.1007/s00285-024-02132-6](https://link.springer.com/article/10.1007/s00285-024-02132-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240812&utm_content=10.1007%2Fs00285-024-02132-6).
+- Dylan Morris, John Maclean and Andrew J. Black, 2024. Computation of random time-shift distributions for stochastic population models. Journal of Mathematical Biology, 89, 33, [10.1007/s00285-024-02132-6](https://link.springer.com/article/10.1007/s00285-024-02132-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240812&utm_content=10.1007%2Fs00285-024-02132-6).
 - Adrian J. Marcato, Andrew J. Black, Camelia R. Walker et al., 2022. Learnings from the Australian First Few X Household Transmission Project for COVID-19. Lancet Regional Health - Western Pacific, 28, 100573, [doi:10.1016/j.lanwpc.2022.100573](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(22)00188-2/fulltext)
